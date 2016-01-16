@@ -2,10 +2,15 @@
 
 * **Course:** CPLN690-MUSA610, University of Pennsylvania
 * **Location:** B5, Meyerson Hall (210 S. 34th Street)
+* **Schedule:** 9am-12pm, Tuesdays
 * **Instructors:**
     * Jeff Frankl, [jefffrankl@gmail.com](mailto:jefffrankl@gmail.com)
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
 * **Teaching Assistant:** Lauren Parker, [parkerla@design.upenn.edu](mailto:parkerla@design.upenn.edu)
+* **Office Hours:**
+    * Jeff Frankl: Mondays, 5:30pm-6:30pm @GSC Common room
+    * Nathan Zimmerman: Tuesdays, 1-3pm @TBD
+    * Lauren Parker: Thursdays, 1-3pm @Duhring 039
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/CPLN690-MUSA610/syllabus.svg)](https://gitter.im/CPLN690-MUSA610/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
          * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
@@ -77,7 +82,7 @@ will also leverage the power of github to make collaboration simpler and
 more transparent for grading purposes (this will make more sense when
 you're familiar with github).
 
-### Tentative Schedule
+### Course Schedule
 
 #### Week 1 - Getting started
 * Introductions
