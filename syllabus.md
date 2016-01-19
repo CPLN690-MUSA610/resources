@@ -9,7 +9,7 @@
 * **Teaching Assistant:** Lauren Parker, [parkerla@design.upenn.edu](mailto:parkerla@design.upenn.edu)
 * **Office Hours:**
     * Jeff Frankl: Mondays, 5:30pm-6:30pm @GSC Common room
-    * Nathan Zimmerman: Tuesdays, 1-3pm @TBD
+    * Nathan Zimmerman: Tuesdays, 1-3pm @GSC Common room
     * Lauren Parker: Thursdays, 1-3pm @Duhring 039
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/CPLN690-MUSA610/syllabus.svg)](https://gitter.im/CPLN690-MUSA610/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
