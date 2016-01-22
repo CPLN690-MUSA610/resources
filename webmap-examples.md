@@ -10,3 +10,5 @@
 * [Mapbox](https://www.mapbox.com/)
 * [CartoDB](https://cartodb.com/)
 * [Rand McNally](http://tripmaker.randmcnally.com/)
+* [Museum Stat](http://museumstat.org/)
+* [X Files Map](https://www.mapbox.com/blog/x-files/)
