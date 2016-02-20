@@ -3,3 +3,4 @@
 * [Syllabus](./syllabus.md)
 * [Map-based Web Application Examples](./webmap-examples.md)
 * [Data Sources](./datasources.md)
+* [Libraries](./libraries.md)
