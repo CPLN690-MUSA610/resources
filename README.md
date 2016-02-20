@@ -2,4 +2,4 @@
 
 * [Syllabus](./syllabus.md)
 * [Map-based Web Application Examples](./webmap-examples.md)
-* [Class Datasets](https://github.com/CPLN690-MUSA610/datasets)
+* [Data Sources](./datasources.md)
