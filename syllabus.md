@@ -81,6 +81,8 @@ will also leverage the power of github to make collaboration simpler and
 more transparent for grading purposes (this will make more sense when
 you're familiar with github).
 
+**Due date:** May 6th, 2016
+
 ### Course Schedule
 
 #### Week 1 - Getting started
